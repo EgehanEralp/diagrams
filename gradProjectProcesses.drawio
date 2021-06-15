@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-15T21:24:33.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="IqAd1AP9_npFPSntTkha" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-15T21:41:44.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="L1bG044XFbb0I2Cqu8a1" version="14.7.7" type="github">
   <diagram id="WvXEa7AoyDHu58R9hgBR" name="Page-1">
     <mxGraphModel dx="1200" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -550,7 +550,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zAf745h_EL0XXIkWd8x4-122" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Uygulama (Back-End)&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="zAf745h_EL0XXIkWd8x4-122" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Uygulama (Back-End)&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;glass=0;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="795" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zAf745h_EL0XXIkWd8x4-123" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="1" source="zAf745h_EL0XXIkWd8x4-116">
