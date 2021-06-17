@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T13:17:12.560Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="wcu0lmXSgu8Whsxb56mc" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T13:17:33.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="7LkYTbG7aEw_YUC_s0Iu" version="14.7.7" type="github">
   <diagram id="WvXEa7AoyDHu58R9hgBR" name="Page-1">
     <mxGraphModel dx="1200" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1026,10 +1026,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zAf745h_EL0XXIkWd8x4-227" value="Decision Tree" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="zAf745h_EL0XXIkWd8x4-227" value="Decision Tree" style="ellipse;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="2760" y="800" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zAf745h_EL0XXIkWd8x4-228" value="Naive Bayes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="zAf745h_EL0XXIkWd8x4-228" value="Naive Bayes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="2760" y="870" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zAf745h_EL0XXIkWd8x4-229" value="Logistic &amp;nbsp;Regression" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=1;" vertex="1" parent="1">
