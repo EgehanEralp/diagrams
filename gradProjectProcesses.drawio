@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T20:52:10.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="mzw8b1o42vWfqymVbmcI" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T20:52:34.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="2zzJIxsDnsiZ0C_0dy67" version="14.7.7" type="github">
   <diagram id="WvXEa7AoyDHu58R9hgBR" name="Page-1">
     <mxGraphModel dx="1348" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1237,12 +1237,6 @@
         <mxCell id="zAf745h_EL0XXIkWd8x4-278" value="&lt;font size=&quot;3&quot;&gt;Classifier&lt;br&gt;(Rating Tahminleme)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="2797.5" y="1530" width="124" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zAf745h_EL0XXIkWd8x4-279" value="&lt;font size=&quot;3&quot;&gt;PP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="1330" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zAf745h_EL0XXIkWd8x4-280" value="&lt;font size=&quot;3&quot;&gt;PP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;shadow=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2880" y="1350" width="70" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zAf745h_EL0XXIkWd8x4-281" value="Cloud" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.cloud;rounded=0;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="2814.5" y="1690" width="90" height="60" as="geometry" />
         </mxCell>
@@ -1402,6 +1396,9 @@
         </mxCell>
         <mxCell id="zAf745h_EL0XXIkWd8x4-359" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="3150" y="1850" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zAf745h_EL0XXIkWd8x4-360" value="&lt;font color=&quot;#ffffff&quot;&gt;GCP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2839.5" y="1720" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
