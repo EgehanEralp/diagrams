@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T10:53:41.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="9N3aZL8QI0obS-go-B7T" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-17T11:00:40.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="x9o08A7fop_j7urY63x2" version="14.7.7" type="github">
   <diagram id="WvXEa7AoyDHu58R9hgBR" name="Page-1">
     <mxGraphModel dx="1200" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -875,18 +875,6 @@
         </mxCell>
         <mxCell id="zAf745h_EL0XXIkWd8x4-195" value="&lt;font color=&quot;#ffffff&quot;&gt;GCP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2340" y="70" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="zAf745h_EL0XXIkWd8x4-196" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2000" y="350" as="sourcePoint" />
-            <mxPoint x="2050" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zAf745h_EL0XXIkWd8x4-197" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2000" y="350" as="sourcePoint" />
-            <mxPoint x="2050" y="300" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zAf745h_EL0XXIkWd8x4-198" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zAf745h_EL0XXIkWd8x4-173" target="zAf745h_EL0XXIkWd8x4-193">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
