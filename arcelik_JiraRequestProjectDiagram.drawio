@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T06:38:00.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="q423HUfpbKjGFksFrqPJ" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T07:17:05.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="2XNBnPbGJzt5h3VYQ0PC" version="15.5.2" type="github">
   <diagram id="7UnajbDv81arqUS3t6hi" name="Page-1">
     <mxGraphModel dx="1492" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -648,7 +648,7 @@
           <mxGeometry x="1779" y="2946" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GqdcJL9aSeTutaYWHnCw-128" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" parent="1" vertex="1">
-          <mxGeometry x="2180" y="761" width="37.5" height="30" as="geometry" />
+          <mxGeometry x="2876.25" y="1126" width="37.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5NziueK5ZMa8hEsY_05z-1" value="Jira Request Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="2390" y="783" width="60" height="80" as="geometry" />
@@ -733,6 +733,9 @@
         </mxCell>
         <mxCell id="5NziueK5ZMa8hEsY_05z-26" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#006633&quot;&gt;Atlas / Qlik&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3280" y="595" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5NziueK5ZMa8hEsY_05z-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ui-essence/32/_98ui-128.png;dashed=1;fontSize=24;fontColor=#006633;strokeColor=#006633;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="1101" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
