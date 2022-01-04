@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T12:06:35.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hCK0nPwjZKUut6ClSt6f" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T12:07:20.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="8RpxJHr-hnZx47wA6mXo" version="16.1.2" type="github">
   <diagram id="00T8672XdWEvwJekG5B6" name="Page-1">
     <mxGraphModel dx="2249" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,6 +203,9 @@
         </mxCell>
         <mxCell id="vYqXfZT6JnJgU1GFTuYv-67" value="arıza kök sebepleri, hizmet: sesli çalışıyor - neden sesli çalışıyor?motordan dolayı" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="905" y="410" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vYqXfZT6JnJgU1GFTuYv-68" value="h1 - ürün (buzolabı)&lt;br&gt;h2- alt kırınım (kombi tipi/2 kapılı buzdolabı)&lt;br&gt;h3- model kodu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="790" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
