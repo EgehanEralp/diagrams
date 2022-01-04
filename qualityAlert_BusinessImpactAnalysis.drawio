@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T06:23:20.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="F9aLFOkLt-GqmO_XbAAk" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T06:28:33.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="SKfu-_oYQV1LryZdat4U" version="16.1.2" type="github">
   <diagram id="00T8672XdWEvwJekG5B6" name="Page-1">
     <mxGraphModel dx="2249" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -157,6 +157,11 @@
         <mxCell id="vYqXfZT6JnJgU1GFTuYv-54" value="Hizmet Verileri" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1049" y="520" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="vYqXfZT6JnJgU1GFTuYv-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#000000;endArrow=classic;endFill=0;" edge="1" parent="1" source="vYqXfZT6JnJgU1GFTuYv-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="976" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vYqXfZT6JnJgU1GFTuYv-55" value="Quality &lt;br&gt;Alert" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=default;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="910" y="630" width="120" height="80" as="geometry" />
         </mxCell>
@@ -183,6 +188,9 @@
         </mxCell>
         <mxCell id="vYqXfZT6JnJgU1GFTuYv-61" value="QI&#39;ın arıza kategorisi tahmini&lt;br&gt;içerisinde" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1045" y="600" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vYqXfZT6JnJgU1GFTuYv-63" value="Her ürün grubu ve ahizmet kategorisi için;&lt;br&gt;&amp;nbsp;Aylık bazda trend analizi yapılır ve kurallar ile alarmlar oluşturulur/oluşturulmaz&lt;br&gt;Bu alarmlar sayesinde erkenden potansiyel memnuniyetsizlikleri tespit edip, aksiyonlar alınabilir." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="705" y="755" width="530" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
