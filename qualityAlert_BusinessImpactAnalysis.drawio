@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T12:05:25.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="s0OnFUiw_La0Xl9wRNyf" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T12:05:31.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="7fcUtxJjuJTE0r7l-EkJ" version="16.1.2" type="github">
   <diagram id="00T8672XdWEvwJekG5B6" name="Page-1">
     <mxGraphModel dx="2249" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
           <mxGeometry x="1300" y="635" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vYqXfZT6JnJgU1GFTuYv-67" value="arıza kök sebepleri, hizmet: sesli çalışıyor - neden sesli çalışıyor?motordan dolayı" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="905" y="385" width="450" height="20" as="geometry" />
+          <mxGeometry x="905" y="410" width="450" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
