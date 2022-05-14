@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:05:15.905Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ml0ruOvkMuuW7Xozo1yd" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:06:00.385Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PTDd_c78QB6YhLEZKAiR" version="16.2.4" type="github">
   <diagram id="w7XJMmoa3te1Nku5CvIf" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="90" y="100" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-2" value="&lt;u&gt;Poisoned Machine Learning Pipeline&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355" y="100" width="210" height="20" as="geometry" />
+          <mxGeometry x="297" y="100" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QVhbxuohWqq9EZuLFgjl-3" target="QVhbxuohWqq9EZuLFgjl-4">
           <mxGeometry relative="1" as="geometry" />
@@ -34,34 +34,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-9" value="Poisoned Train Data Set" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="140" width="90" height="40" as="geometry" />
+          <mxGeometry x="357" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QVhbxuohWqq9EZuLFgjl-11" target="QVhbxuohWqq9EZuLFgjl-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-11" value="ML Model Training" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="357" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#CC0000;" edge="1" parent="1" source="QVhbxuohWqq9EZuLFgjl-12" target="QVhbxuohWqq9EZuLFgjl-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-12" value="Deployment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="357" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#CC0000;" edge="1" parent="1" source="QVhbxuohWqq9EZuLFgjl-14" target="QVhbxuohWqq9EZuLFgjl-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://t3.ftcdn.net/jpg/03/12/75/62/360_F_312756263_LUbawIl0tPk7WiIRhj2TvFy0OyRfA0KM.jpg;" vertex="1" parent="1">
-          <mxGeometry x="565" y="125" width="70" height="70" as="geometry" />
+          <mxGeometry x="507" y="125" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-15" value="&lt;font color=&quot;#cc0000&quot;&gt;Attacker&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="180" width="60" height="20" as="geometry" />
+          <mxGeometry x="512" y="180" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-18" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;Valid Model&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QVhbxuohWqq9EZuLFgjl-19" value="&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;Corrupted/Poisoned Model&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="375" y="350" width="170" height="20" as="geometry" />
+          <mxGeometry x="317" y="350" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
