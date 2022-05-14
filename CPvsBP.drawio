@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T20:14:30.473Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="lPQTHAGSP9XmqWVF501Z" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-14T20:15:18.592Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="aWNm1Kx-voYJv0mo2VfU" version="16.2.4" type="github">
   <diagram id="n19dWxNPql3A_Z4yUUAx" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,15 @@
         </mxCell>
         <mxCell id="44RcO6OPjRykOQoV6bxz-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/primitive-dot-128.png" vertex="1" parent="1">
           <mxGeometry x="581" y="369" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="44RcO6OPjRykOQoV6bxz-31" value="&lt;font style=&quot;font-size: 9px&quot;&gt;a) Original Images&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44RcO6OPjRykOQoV6bxz-32" value="&lt;font style=&quot;font-size: 9px&quot;&gt;b) Convex Polytope&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44RcO6OPjRykOQoV6bxz-33" value="&lt;font style=&quot;font-size: 9px&quot;&gt;c) Bullseye Polytope&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
