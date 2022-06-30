@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T07:18:07.049Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UdBpUuuT9clTZtRDtZPA" version="18.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T07:20:22.576Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ef3SKu-TB-k4yHmWHwQX" version="18.0.4" type="github">
   <diagram id="4flXGGzXFifgULeIPLUZ" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="WaN_mvOq7KSIRF2AP4x1-59" value="No Label:&amp;nbsp; PCA&lt;br&gt;Label:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; LDA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="35" y="730" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaN_mvOq7KSIRF2AP4x1-60" value="Timeseries: Multivariate models (e.g:VAR)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44.31" y="770" width="236.38" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
